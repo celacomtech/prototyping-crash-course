@@ -16,20 +16,22 @@ Note: If you will participate in the second segment, please bring a laptop!
 
 ## References and Resources
 
+### Interaction Design
 * [Kathy Sierra: Building the Minimum Badass User](https://vimeo.com/54469442)
-* [Let's, Like, Demolish Laundry](http://nymag.com/news/features/laundry-apps-2014-5/index1.html)
 * [The difference between a UX Designer and UI Developer](http://asinthecity.com/2011/11/10/the-difference-between-a-ux-designer-and-ui-developer/)
-* Web Design: The First 100 Years
-  - [Video](https://www.youtube.com/watch?v=nwhZ3KEqUlw)
-  - [Transcript and slides](http://idlewords.com/talks/web_design_first_100_years.htm)
-* [Paper](https://www.fiftythree.com/paper)
-* https://balsamiq.com/
-* http://www.uistencils.com/
-* [Designing with Forces](https://vimeo.com/10875362)
 * [UX Crash Course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
-*[](http://www.invisionapp.com/)
+* [Designing with Forces](https://vimeo.com/10875362)
 * https://robots.thoughtbot.com/gestalt-principles
-* [Foundation: Rapid Prototyping](http://foundation.zurb.com/prototyping.html)
-* [Gender pay gap in the United States](https://en.wikipedia.org/wiki/Gender_pay_gap_in_the_United_States)
-* http://sneakpeekit.com/
+
+### Prototyping tools
+* [Invision](http://www.invisionapp.com/)
+* [Balsamiq Mockups](https://balsamiq.com/)
+* [Paper (the app)](https://www.fiftythree.com/paper)
+* [Stencils for hand drawn mockups](http://www.uistencils.com/)
+* [Free templates for hand drawn mockups](http://sneakpeekit.com/)
+* [Foundation](http://foundation.zurb.com/prototyping.html)
+
+### Examples of good design
 * http://unmatchedstyle.com/gallery
+
+

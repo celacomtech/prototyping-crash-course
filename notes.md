@@ -2,25 +2,14 @@
 
 ---
 
-# "What is the web actually for?"
-1. Vision 1: Connect knowledge, people, and cats.
-2. Vision 2: Fix the world with software
-3. Vision 3: Become as gods, immortal creatures of pure energy living in a crystalline paradise of our own construction
+# What is Design?
+![inline](images/notes-on-the-synthesis-of-form-diagram.jpg)
 
-^ "Let's, Like, Demolish Laundry"
-^ The first group wants to CONNECT THE WORLD.
-^ The second group wants to EAT THE WORLD.
-^ And the third group wants to END THE WORLD.
-^ These visions are not compatible.
+^ Design is how it works. It requires deep thought.
 
 ---
 
-# Optimistic Realism
-## Things can get better, but not easily, and not likely for long.
-
----
-
-# What is UX?
+# What is User Experience (UX) Design?
 ![inline](images/ux-vs-ui-dev-skills-expanded.png)
 
 ^ **Visual Design:** graphic treatment of interface elements (the “look” in “look-and-feel”)
@@ -29,37 +18,28 @@
 
 ^ **Interaction Design:** development of application flows to facilitate user tasks, defining how the user interacts with site functionality
 
----
-
-# What is UX Design?
-![inline](images/notes-on-the-synthesis-of-form-diagram.jpg)
-
-^ UX requires deep thought
+^ **User Experience Design:** I believe there's no such thing. You can't design another person's experience, only the interface they see and interact with.
 
 ---
 
-# What is UX Design?
+# What is Interaction Design?
+
+> Interaction Design is using hierarchy and contrast to make an application and its interactions obvious and self-explanatory.
+
+-- Me
 
 > "Don't make me think!"
+
 -- Steve Krug
 
 ---
 
-# What is UX Design?
-
-> UX design is using hierarchy and contrast to make an application and its elements obvious and self-explanatory.
--- Jacob Smith
-
----
-
-# (Some) Principles of UX Design
+# (Some) Principles of Interaction Design
 1. Navigation should be obvious
 2. Interaction should be direct
-3. Tools and options should be as minimal as possible
-4. Keep the user on the page
-5. Invite the user to take a next action
+3. Information should be arranged hierarchically.
 
-^ Not rules
+^ Similarity Enclosure Continuation Closure
 
 ---
 
@@ -77,7 +57,52 @@
 
 # Good
 ## [https://www.southcarolinablues.com/web/public/sc/](https://www.southcarolinablues.com/web/public/sc/)
+![fit](images/bluecross.png)
 
 ---
 
-# Workshop!
+# The Process
+1. Start with nouns
+2. Make a site map using verbs 
+3. Sketch on paper.
+4. Create a wireframe.
+5. Create a prototype.
+
+---
+
+# Start with Nouns
+## The Domain Model
+
+^ Create a ubiquitous language. What kind of information is stored in the app? Are the different kinds of information related to each other? How? Can you interact the information? In what way?
+
+---
+
+# Make a site map
+## Use nouns + verbs for a starting point
+
+^ The common web application verbs are index (list), show, create, edit, and delete
+^ Trello is a good example of an application that uses this, but diverges from it.
+
+---
+
+# Sketch on paper
+## Give your mind a framework to hang details on
+
+---
+
+# Create a wireframe
+## Get feedback on information hierarchy
+
+---
+
+# Create a prototype
+## Get feedback on interaction design
+
+^ Interaction design is more important than visual design.
+
+---
+
+# Develop It
+## Or hire someone to develop it
+### Or come learn how to develop it :)
+
